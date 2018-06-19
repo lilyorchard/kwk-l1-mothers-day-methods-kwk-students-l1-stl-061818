@@ -3,3 +3,6 @@
 #   puts "Happy Mother's Day, Mom!"
 # end
 # mothers_day
+def monthers_day(name)
+  puts "Happy Mother's Day, #{name}"
+  
